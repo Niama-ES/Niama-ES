@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="Niama ES-Selymy, AI & Systems Engineer | Cloud & Security" width="100%">
+<img src="header.png" alt="Niama ES-Selymy, AI & Systems Engineer | Cloud & Security" width="100%">
 
 <!--
 **Niama-ES/Niama-ES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
