@@ -163,11 +163,11 @@ Greetings, fellow explorer. I explore where <b>AI, cybersecurity and cloud infra
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   ✉ <a href="mailto:niama.esselymy@gmail.com"><b>niama.esselymy@gmail.com</b></a>
   &nbsp;·&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=niama.esselymy@gmail.com">open in Gmail</a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="./assets/butterfly-seal.png" width="100" alt="Archive Seal" />
