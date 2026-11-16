@@ -44,7 +44,7 @@ Greetings, fellow explorer. I explore where <b>AI, cybersecurity and cloud infra
 
 <p align="center"><img src="https://img.shields.io/badge/III-THE%20SPECIMEN%20COLLECTION-172B49?style=for-the-badge&labelColor=A78B61" alt="III. THE SPECIMEN COLLECTION"/></p>
 
-<table>
+<!-- <table>
 <tr>
 <td width="170" align="center" valign="middle"><img src="https://img.shields.io/badge/SPECIMEN-001-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN|001"/><br/><br/><img src="./assets/specimens/specimen-001.png" width="150" alt="Specimen 001"/><br/><b>FarmShield</b><br/><sub>IoT · AI · Agritech</sub></td>
 <td valign="top"><h3>✦ 𝓕𝓪𝓻𝓶𝓢𝓱𝓲𝓮𝓵𝓭</h3><sub><i>Team of 3 · Private repository</i></sub><blockquote>Offline-capable farm security. A three-model AI cascade (human/animal → dangerous animal → face recognition), Isolation Forest for insider-theft anomalies, automatic siren and irrigation-valve response, and push alerts targeting under 5 seconds.</blockquote></td>
@@ -56,6 +56,75 @@ Greetings, fellow explorer. I explore where <b>AI, cybersecurity and cloud infra
 <td valign="top"><h3>✦ 𝓒𝓸𝓻𝓪𝓿𝓲𝓽𝓪 𝓒𝓵𝓲𝓷𝓲𝓬</h3><sub><i>Team of 3</i></sub><blockquote>A private, local-first RAG assistant for clinic staff. Docling parses records and policies, Qdrant stores the vectors, LLaMA 3.2 on Ollama answers, and sensitive data never leaves the clinic.</blockquote></td>
 <td width="170" align="center" valign="middle"><img src="https://img.shields.io/badge/SPECIMEN-004-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN|004"/><br/><br/><img src="./assets/specimens/specimen-004.png" width="150" alt="Specimen 004"/><br/><b>Document Analysis</b><br/><sub>LLM · Distributed Systems</sub></td>
 <td valign="top"><h3>✦ 𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽 𝓐𝓷𝓪𝓵𝔂𝓼𝓲𝓼 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶</h3><sub><i>Final-year project · Team of 3</i></sub><blockquote>Transcripts, certificates and formal requests are indexed in Elasticsearch, checked against configurable business rules, analysed by an LLM and processed asynchronously through Kafka.</blockquote></td>
+</tr>
+</table> -->
+
+<table>
+<tr>
+<td width="170" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/SPECIMEN-001-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN 001"/><br/><br/>
+  <a href="https://github.com/Niama-ES/FarmShield">
+    <img src="./assets/specimens/specimen-001.png" width="150" alt="Specimen 001"/>
+  </a><br/>
+  <b><a href="https://github.com/Niama-ES/FarmShield">FarmShield ↗</a></b><br/>
+  <sub>IoT · AI · Agritech</sub>
+</td>
+<td valign="top">
+  <h3>✦ <a href="https://github.com/Niama-ES/FarmShield">𝓕𝓪𝓻𝓶𝓢𝓱𝓲𝓮𝓵𝓭</a></h3>
+  <sub><i>Team of 3 · Public repository</i></sub>
+  <blockquote>
+    Offline-capable farm security. A three-model AI cascade (human/animal → dangerous animal → face recognition), Isolation Forest for insider-theft anomalies, automatic siren and irrigation-valve response, and push alerts targeting under 5 seconds.
+  </blockquote>
+</td>
+
+<td width="170" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/SPECIMEN-002-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN 002"/><br/><br/>
+  <a href="https://github.com/noura1se/TACTIX-blackbox">
+    <img src="./assets/specimens/specimen-002.png" width="150" alt="Specimen 002"/>
+  </a><br/>
+  <b><a href="https://github.com/noura1se/TACTIX-blackbox">TACTIX // BLACKBOX ↗</a></b><br/>
+  <sub>Game AI · Algorithms</sub>
+</td>
+<td valign="top">
+  <h3>✦ <a href="https://github.com/noura1se/TACTIX-blackbox">𝓣𝓐𝓒𝓣𝓘𝓧 // 𝓑𝓛𝓐𝓒𝓚𝓑𝓞𝓧</a></h3>
+  <sub><i>Team of 3 · Public repository</i></sub>
+  <blockquote>
+    A strategy engine for 3×3 to 5×5 boards: Minimax with Alpha-Beta pruning, transposition tables, sliding-window heuristics, fork detection, LIFO undo and an analytics dashboard.
+  </blockquote>
+</td>
+</tr>
+
+<tr>
+<td width="170" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/SPECIMEN-003-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN 003"/><br/><br/>
+  <!-- Add Coravita repository link here when published -->
+  <img src="./assets/specimens/specimen-003.png" width="150" alt="Specimen 003"/><br/>
+  <b>Coravita Clinic</b><br/>
+  <sub>Local RAG · LLM</sub>
+</td>
+<td valign="top">
+  <h3>✦ 𝓒𝓸𝓻𝓪𝓿𝓲𝓽𝓪 𝓒𝓵𝓲𝓷𝓲𝓬</h3>
+  <sub><i>Team of 3</i></sub>
+  <blockquote>
+    A private, local-first RAG assistant for clinic staff. Docling parses records and policies, Qdrant stores the vectors, LLaMA 3.2 on Ollama answers, and sensitive data never leaves the clinic.
+  </blockquote>
+</td>
+
+<td width="170" align="center" valign="middle">
+  <img src="https://img.shields.io/badge/SPECIMEN-004-172B49?style=flat-square&labelColor=A78B61" alt="SPECIMEN 004"/><br/><br/>
+  <a href="https://github.com/Niama-ES/PFE_backend">
+    <img src="./assets/specimens/specimen-004.png" width="150" alt="Specimen 004"/>
+  </a><br/>
+  <b><a href="https://github.com/Niama-ES/PFE_backend">Document Analysis ↗</a></b><br/>
+  <sub>LLM · Distributed Systems</sub>
+</td>
+<td valign="top">
+  <h3>✦ <a href="https://github.com/Niama-ES/PFE_backend">𝓓𝓸𝓬𝓾𝓶𝓮𝓷𝓽 𝓐𝓷𝓪𝓵𝔂𝓼𝓲𝓼 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶</a></h3>
+  <sub><i>Final-year project · Team of 3 · Public repository</i></sub>
+  <blockquote>
+    Transcripts, certificates and formal requests are indexed in Elasticsearch, checked against configurable business rules, analysed by an LLM and processed asynchronously through Kafka.
+  </blockquote>
+</td>
 </tr>
 </table>
 
